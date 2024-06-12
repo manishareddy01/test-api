@@ -1,6 +1,6 @@
 to set up virtual environment : python -m venv venv
 
-to activate" venv\scripts\activate.bat
+to activate venv\scripts\activate.bat
 
 pip install fastAPI uvicorn sqlalchemy pymysql
 
